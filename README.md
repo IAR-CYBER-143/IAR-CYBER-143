@@ -92,8 +92,8 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/IAR-CYBER-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=IstiakAhamedRisat&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="IstiakAhamedRisat GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/IAR-CYNER-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstiakAhamedRisat&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/IAR-CYBER-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=IAR-CYBER-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="IstiakAhamedRisat GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/IAR-CYNER-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAR-CYBER-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
