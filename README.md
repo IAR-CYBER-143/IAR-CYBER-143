@@ -17,58 +17,7 @@
  <img src="https://komarev.com/ghpvc/?username=IAR-CYBER-143&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
-</p>
-<div align="center">
-<img align="center" src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/Developer.gif"/>
-</div>
-<img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/md7Oqrf.gif " width="300%"> 
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ➪ 𝙽𝙰𝙼𝙴 :- Istiak Ahamed Risat
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝚂𝚃𝚄𝙳𝙴𝙽𝚃😝
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- NO MORE FRIEND
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ☞︎︎︎ 𝙸𝙽𝚂𝙻𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵😌
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼😘
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Istiak Ahamed Risat](https://www.facebook.com/link.putki.diye.dhukai.dibo)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ➪ 𝚆𝙷𝙰𝚃𝚂 𝙰𝙿𝙿 :- [Istiak Ahamed Risat](https://wa.me/+8801914823938)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ➪ 𝙵𝚄𝙽 𝙵𝙰𝙲𝚃 ** 𝙸 𝚃𝙷𝙸𝙽𝙺 𝙸 𝙰𝙼 𝙵𝚄𝙽𝙽𝚈**
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
-
-[![Whats App](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp)](https://wa.me/+8801914823938)
-[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/link.putki.diye.dhukai.dibo)
-[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/link.putki.diye.dhukai.dibo)
 
 ### ⚙️ &nbsp; 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
 
