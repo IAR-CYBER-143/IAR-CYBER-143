@@ -42,6 +42,3 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 
-## CONTACT ME ON
- 1. [Facebook](https://www.facebook.com/link.putki.diye.dhukai.dibo) 
- 3. [Whatapp](https://wa.me/+8801914823938)
