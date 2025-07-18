@@ -9,6 +9,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2EF71E&background=000000&center=true&vCenter=true&lines=Hello+I+Am+Istiak+Ahamed++Risat;This+Is+Just+Not+A+Name;This++Name+Is+Brand%F0%9F%98%8E%F0%9F%98%88;Thank+You+Everyone+%F0%9F%A5%B0%F0%9F%98%98)](https://git.io/typing-svg)
 
 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
 <h3><b><i>🏆 Github Statistics </i></b></h3>
 <a href="https://github.com/IAR-CYBER-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=IAR-CYBER-143&theme=monokai"></a>
 </p>
